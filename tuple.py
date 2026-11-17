@@ -29,7 +29,7 @@ scores = (50, 60, 68, 92, 99)
 lowest, *middle, highest = scores
 print(lowest)
 print(middle)
-print(highest)
+print(highest )
 
 
 
